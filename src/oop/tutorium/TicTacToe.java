@@ -17,10 +17,10 @@ public class TicTacToe
     public static Symbol computewinningBoard(Symbol[][] board, Symbol player)
     {
         /*
-         * für alle freien Felder: { wähle ein freies Feld setze dort Symbol
+         * fÃ¼r alle freien Felder: { wÃ¶hle ein freies Feld setze dort Symbol
          * player wenn player jetzt gewonnen hat, return player next ist der/die
-         * ändere Spieler/in symbolresult =computewinningBoard(board, next);
-         * wenn result eine Gewinnposition ist, return result; lösche Symbol
+         * Andere Spieler/in symbolresult =computewinningBoard(board, next);
+         * wenn result eine Gewinnposition ist, return result; lï¿½sche Symbol
          * wieder } return Symbol.NONE;
          */
         return null;
