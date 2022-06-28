@@ -19,9 +19,10 @@ class X1Class
     public void m(BClass b)
     {
         System.out.println();
+        BClass a;
         if (a instanceof BClass)
         {
-            BClass b = (BClass) a;
+            BClass b = a;
         }
     }
 }
